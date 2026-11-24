@@ -1,0 +1,28 @@
+Job Title: Software Engineer (AI Agents & LLM)
+
+Company: Elip (YC W25 Startup)
+Location: Gurugram / Bengaluru (On-site or Remote)
+Type: 6-Month Internship with PPO Opportunity
+
+About the Role:
+Join Elip and build an AI career agent used by thousands of job seekers. You will work directly on building the agents, recommendations, and semantic search powering our AI career product used by students and early-career professionals.
+
+What You'd Do:
+- Build LLM-powered agents that use tools and remember context.
+- Match people to jobs through retrieval, ranking, and personalization.
+- Run semantic search over a large, constantly changing jobs index.
+- Evaluate and improve LLM output quality.
+- Ship backend features to production and keep them reliable.
+
+Requirements (Must Have):
+- Hands-on LLM work with prompting, tool use, and structured outputs.
+- Strong Python backend development skills.
+- Experience with SQL and APIs.
+- Ability to pick up new tools quickly from documentation.
+- Understanding of Embeddings and Vector Databases.
+
+Good to Have:
+- Built a recommender or search system end to end.
+- Worked with RAG pipelines or LLM evaluations.
+- Have a side project live and used by real people.
+- Some experience with Docker or cloud deployments.
